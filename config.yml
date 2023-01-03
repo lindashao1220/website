@@ -1,3 +1,105 @@
-baseURL: http://example.org/
+baseURL: ""
 languageCode: en-us
-title: My New Hugo Site
+title: Yanrui Shao
+theme: PaperMod
+
+languages:
+  en:
+    languageName: ":en:"
+    contentDir: 'content/en'
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Home
+          url: /
+          weight: 1
+        - name: About
+          url: about/
+          weight: 2
+        - name: Projects
+          url: project/
+          weight: 3
+        - name: Articles
+          url: article/
+          weight: 4
+        - name: Contact
+          url: contact/
+
+  中文:
+    languageName: ":zh:"
+    contentDir: 'content/zh'
+    weight: 2
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: 主页
+          url: 中文/
+          weight: 1
+        - name: 关于
+          url: about/
+          weight: 2
+        - name: 项目
+          url: project/
+          weight: 3
+        - name: 文章
+          url: article/
+          weight: 4
+        - name: 联系
+          url: contact/
+
+params:
+  profileMode:
+    enabled: true
+    title: "Yanrui Shao"
+    subtitle: "👩‍💻 Web Developer | ✨ creative designer | 💜 NYU Shanghai Student"
+    imageUrl: "img/profile-pic.jpg"
+    imageTitle: "Profile Picture"
+    imageWidth: 200
+    imageHeight: 200
+    buttons:
+      - name: Contact Me
+        url: "/contact"
+      - name: Github
+        url: "https://github.com/lindashao1220"
+
+
+  socialIcons:
+    - name: facebook
+      url: 'https://facebook.com/'
+    - name: twitter
+      url: 'https://twitter.com/'
+
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowShareButton: true
+
+# menu:
+#   main: 
+#     - identifier: aboutme;
+#       name: About me
+#       url: /aboutme/
+#       weight: 10
+#     - identifier: projects;
+#       name: Projects
+#       url: /projects/
+#       weight: 10
+#     - identifier: experiences;
+#       name: Experiences
+#       url: /experiences/
+#       weight: 10
+#     - identifier: archives;
+#       name: Archives
+#       url: /archives/
+#       weight: 30
+   
