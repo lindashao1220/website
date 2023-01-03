@@ -18,16 +18,16 @@ languages:
           url: /
           weight: 1
         - name: About
-          url: about/
+          url: /about/
           weight: 2
         - name: Projects
-          url: project/
+          url: /project/
           weight: 3
         - name: Articles
-          url: article/
+          url: /article/
           weight: 4
         - name: Contact
-          url: contact/
+          url: /contact/
 
   中文:
     languageName: ":zh:"
@@ -43,16 +43,16 @@ languages:
           url: 中文/
           weight: 1
         - name: 关于
-          url: about/
+          url: /about/
           weight: 2
         - name: 项目
-          url: project/
+          url: /project/
           weight: 3
         - name: 文章
-          url: article/
+          url: /article/
           weight: 4
         - name: 联系
-          url: contact/
+          url: /contact/
 
 params:
   profileMode:

@@ -4,7 +4,7 @@ draft: false
 ---
 
 ### Email
-- [ll4715@nyu.edu](mailto:ll4715@nyu.edu)
+- [ll4715@nyu.edu](mailto:ys4950@nyu.edu)
 
 ### Social Media:
 - [LinkedIn](https://www.linkedin.com/in/lawrence-rx-lim/)
