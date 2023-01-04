@@ -33,6 +33,7 @@ languages:
 params:
   cover:
     linkFullImages: true
+    
 params:
   profileMode:
     enabled: true
