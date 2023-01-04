@@ -31,6 +31,9 @@ languages:
 
 
 params:
+  cover:
+    linkFullImages: true
+
   profileMode:
     enabled: true
     title: "Yanrui Shao"
@@ -51,9 +54,6 @@ params:
       url: 'https://facebook.com/'
     - name: twitter
       url: 'https://twitter.com/'
-
-  cover:
-    linkFullImages: true
 
   ShowBreadCrumbs: true
   ShowReadingTime: true
