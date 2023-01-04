@@ -40,7 +40,7 @@ languages:
     menu:
       main:
         - name: 主页
-          url: /
+          url: /hi
           weight: 1
         - name: 关于
           url: /about/
