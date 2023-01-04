@@ -1,4 +1,0 @@
----
-title: "Articles"
-ShowBreadCrumbs: false
----

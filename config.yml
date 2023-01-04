@@ -29,30 +29,6 @@ languages:
         - name: Contact
           url: /contact/
 
-  中文:
-    languageName: ":zh:"
-    contentDir: 'content/zh'
-    weight: 2
-    taxonomies:
-      category: categories
-      tag: tags
-      series: series
-    menu:
-      main:
-        - name: 主页
-          url: /hi
-          weight: 1
-        - name: 关于
-          url: /about/
-          weight: 2
-        - name: 项目
-          url: /project/
-          weight: 3
-        - name: 文章
-          url: /article/
-          weight: 4
-        - name: 联系
-          url: /contact/
 
 params:
   profileMode:
