@@ -9,7 +9,7 @@ cover:
 images:
 - img/firework.gif
 ---
-This a digital firework made of windows and can be played in multiple devices at the same time.
+This is a digital firework made of windows and can be played in multiple devices at the same time.
 
 Growing up in a diverse community and receiving a relatively open education makes me enjoy thinking about things in a different way. This unique thinking mode drives me to build this digital firework. In this way, people can see the browser page as a sculpture and performance, rather than just a tool to seek for answers.
 
