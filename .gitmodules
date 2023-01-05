@@ -1,5 +1,5 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
-    # url = "https://github.com/lindashao1220/hugo-PaperMod.git"
-	url = "https://github.com/adityatelange/hugo-PaperMod.git"
+    url = "https://github.com/lindashao1220/hugo-PaperMod.git"
+	# url = "https://github.com/adityatelange/hugo-PaperMod.git"
 
