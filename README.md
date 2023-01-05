@@ -1,4 +1,2 @@
 # website
-hiii
-hope you will work
-you are
+this is my persoal website:) Hope you will enjoy
