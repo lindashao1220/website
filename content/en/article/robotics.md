@@ -9,6 +9,9 @@ ShowToc: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ---
+<!-- youtube shortcode -->
+<!-- {{< youtube d04pmggkP9s >}} -->
+
 ## Abstract
 Keywords: Robot, Chinese Face-changing Opera, Improvisation, E-waste, Futuristic
 
@@ -46,10 +49,10 @@ As face-changing is a niche art form itself, the theme of the project is even mo
 ### a. Hardware and Code
 
 #### Coding
-Our team used micro bit as a coding tool to make our project. (click on the link to see the complete code). Our code enables all the hardware parts like 360-degree motors, ultrasonic
-
- sensors, IR sensors, MP3 player, and webcam together, meanwhile, helping us connect with the Teachable Machine on Glitch.
+Our team used micro bit as a coding tool to make our project. (click on the link to see the complete code). Our code enables all the hardware parts like 360-degree motors, ultrasonic sensors, IR sensors, MP3 player, and webcam together, meanwhile, helping us connect with the Teachable Machine on Glitch.
 We have adjusted our coding architecture several times for optimal outcomes. By using our very current version, we put all the things that should be included in a very big loop, and to reduce the side effect of running so often, we have put all the stuff into for every 200 milliseconds, hoping to make the whole process smoother. We have also set a variable “count” to control the function performance, making the time for the robot’s performance more accurately. It also connects the performance with the fan activities executed by the Teachable Machine, so it makes the whole code more coherent with each others.
+
+<!-- {{< figure align=center src="../img/Picture1.png" >}} -->
 
 ![Picture1](../img/Picture1.png)
 
@@ -57,8 +60,8 @@ We have adjusted our coding architecture several times for optimal outcomes. By 
 We use the 360-degree servo to rotate the face of the robot. It makes it easier for the robot to rotate 90 degrees each time. However, the drawback of using this motor is it is hard to manage the rotating degree, and it requires a lot of trying and adjustment.
  
 #### Sensor choice
-![Picture2](../img/Picture2.png)
-![Picture3](../img/Picture3.png)
+{{< figure align=center src="../img/Picture2.png" >}}
+{{< figure align=center src="../img/Picture3.png" >}}
 
 We conducted several experiments to see if the ultrasonic sensor was stable and to adjust the value of the distance. We use the ultrasonic sensor to detect if there are people nearby and make it approach people, and when people leave, the robot will step back again. At the same time, we also use an IR sensor to make sure it will not fall from the stage. We have designed a black edge on the stage, so whenever it detects a black edge, it will also be back to the center of the stage again.
 
@@ -73,18 +76,18 @@ We are very ambitious when it comes to fabrcation. The original plan was to have
 
 The head is the core of the face-changing robot interaction. As shown in the sketch in Fig.4, we carried out three designs. The first one is similar to the Chinese four-faced Guanyin figure, meaning that all four sides of the face are uncovered, and therefore there is no distinction between front and back. The advantage of this design is that it is easy to install, while the disadvantage is that it is detached from the concept of Sichuan opera face changing. The second one conforms to the traditional appearance of face-changing and requires the production of a magnificent crown as well as a head with four different faces. The servo motor will rotate the tetrahedron to change the face. The third one is an upgrade based on the second one. We want to leave a blank face for projecting the face changing animation by the projector. In this way the interaction is not limited to four faces, allowing more variations and truly realizing the combination of traditional face changing performance and future technology. However, since our robot is in movement, the projector needs to position the robot, and the projection surface is not flat, we have to consider the picture deformation. All these factors made the implementation too difficult, so we eventually gave up incorporating animation and chose the basic second design.
 
-![Picture4](../img/Picture4.jpg)
-![Picture5](../img/Picture5.jpg)
+{{< figure align=center src="../img/Picture4.jpg" >}}
+{{< figure align=center src="../img/Picture5.jpg" >}}
 
 Traditional Chinese opera headdress has a lot of details and is mostly crafted by artisans. We bought a lot of materials and experienced the feeling of bonding them by hand. First, as shown in Fig.5, the basic structure of the headpiece was formed by bending wires. Since we chose the special art style of e-waste, we decided to make the back of it look damaged and rough, so we used discarded wires to wrap and fix it. Next, we covered it with some clay to facilitate the attachment of the decorations. The process of gluing the pieces together was tedious, but the result was satisfying. Regarding the choice of materials for the head, we again used ultralight clay, because it is lightweight enough to be driven by one servo motor and easy to colored.
 
-![Picture6](../img/Picture6.jpg)
-![Picture7](../img/Picture7.jpg)
+{{< figure align=center src="../img/Picture6.jpg" >}}
+{{< figure align=center src="../img/Picture7.jpg" >}}
 
 In the construction of the stage, we took reference from the art style of Anti-General's video “Cyberpunk 山海经” and wanted to build a stage with a futuristic sense as large as possible. But considering the portable display and the fact that it will eventually be dismantled, we wanted to use lightweight material. Therefore, for the foundation, we chose high-density foam board instead of wood. As shown in Fig.8, the high-density foam board can be easily cut with an electric cutting pen to create the octagonal shape we wanted. And the high-density foam board is very lightweight while still being able to withstand the robot's movement on the flat surface. We wrapped black tape around it to make the robot easily detect the edge of the stage without falling down. In the choice of material for the stage pillars, iron rods fit the artistic style well, but were too heavy and bulky. So we used lightweight wooden sticks, but painted them silver to match the overall style.
 
-![Picture8](../img/Picture8.jpg)
-![Picture9](../img/Picture9.jpg)
+{{< figure align=center src="../img/Picture8.jpg" >}}
+{{< figure align=center src="../img/Picture9.jpg" >}}
 
 As shown in Fig.9, we found a discarded computer chassis for the backdrop and wrapped thin blue light strips in it as cyberpunk decorations. We had originally envisioned using more light strips for the top of the stage, and even for the traditional opera costume "bunting" - triangular colored flags fixed to the back of the shoulders. Additional traditional Chinese style metal decorations were purchased to embellish the stage and body parts of the robot. However, due to time and COVID-19 constraints, we failed to realize them. Although there were many regrets in the production process, we met the minimum expectations and completed the project under difficult circumstances. The final art style of the appearance presented is a combination of traditional and futuristic sense, and the improvisation and interaction with the audience is simple but clear. After detecting the approach of the audience to the stage, the robot will start to move and change its face, while the speakers will play music. The IR sensor ensures that the robot will not fall off the stage. The audience can pick up different colored fans and wave them to interact with the robot's performance. This is a continuation of the daring and romantic imagination that filled the ancient Chinese face-changing technique, and although it is not perfect, it is an attempt to combine traditional art with robot art as a means of inheritance.
 
