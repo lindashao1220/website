@@ -7,3 +7,5 @@ cover:
 ---
 
 Inspired by Frogger, a very classic game I played when I was a kid, I decided to make a combination of this game and the web page. Experiencing this game on the webpage and trying to avoid all the hyperlinks brought me back to my childhood memory a lot.
+
+It can be downloaded [here](https://github.com/lindashao1220/abc2022/raw/master/ProjectB%20done/projectB%20done.zip).
