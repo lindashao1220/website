@@ -56,7 +56,6 @@ params:
     - name: twitter
       url: 'https://twitter.com/'
 
-  ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowShareButton: true
