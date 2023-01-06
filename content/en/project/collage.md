@@ -1,9 +1,9 @@
 ---
-title: "Collage"
+title: "Photo Collage"
 date: 2022-11-17T22:51:49+08:00
 draft: false
 cover:
-    image:  ../img/collage.gif
+    image: ../img/collage.gif
     alt: 'This is a post image'
     caption: "this is the caption"
 images:
