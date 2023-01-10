@@ -38,7 +38,7 @@ params:
   profileMode:
     enabled: true
     title: "Yanrui Shao"
-    subtitle: "👩‍💻 Web Developer | ✨ creative designer | 💜 NYU Shanghai Student"
+    subtitle: "✨ Creative Technologist | 👾 Media Artist | 👻 NYU Shanghai Student"
     imageUrl: "img/profile-pic.jpg"
     imageTitle: "Profile Picture"
     imageWidth: 200

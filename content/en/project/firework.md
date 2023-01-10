@@ -4,8 +4,8 @@ date: 2022-11-17T22:51:49+08:00
 draft: false
 cover:
     image:  ../img/firework.gif
-    alt: 'This is a post image'
-    caption: "this is the caption"
+    alt: 'firework'
+    caption: "project screenshots gif"
 images:
 - img/firework.gif
 ---
