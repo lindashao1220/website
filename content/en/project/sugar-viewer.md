@@ -21,6 +21,8 @@ Have you ever ordered a new milk tea product when you don’t know how much suga
 
 Have you ever thought that adding ingredients in your milk tea has a great influence on the sugar content? ![sugar influence](../img/influence.png)
 
+Do you think it is necessary to launch an app to tell the sugar content before you drink milk tea? ![launch an app](../img/app.png)
+
 
 
 
