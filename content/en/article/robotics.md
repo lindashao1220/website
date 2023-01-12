@@ -2,7 +2,7 @@
 title: " Futuristic Face-changing robot: An Attempt to Combine Traditional Chinese Opera with Futuristic Sensation of Technology"
 date: 2021-12-17
 draft: false
-author: ["Yanrui Shao, Annika Wen, Callie Qiu"]
+author: ["Yanrui Shao, Annika Wen, Jiayue Qiu"]
 # categories: ["research"]
 # tags: ["CBDC"]
 ShowToc: true
