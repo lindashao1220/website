@@ -50,7 +50,9 @@ This is our presentation video: {{< youtube RUDwS7HB9dU >}}
 
 ## Endnotes:
 The illustrations comes from the website of Coco (https://www.cocobubbletea.com/menu), pinterest(https://www.pinterest.com), and figma community
+
 The measure of sweetness is based on the standard of Coco
+
 The numbers in our software prototype are estimated by ourselves and are not scientifically proved.
 
 
