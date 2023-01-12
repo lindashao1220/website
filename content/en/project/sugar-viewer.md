@@ -43,6 +43,18 @@ Customization Page:
 ![Customization Page6](../img/cus6.png)
 ![Customization Page7](../img/cus7.png)
 
+With this app, the users can know how sweet the drink will be, before they actually taste it, which can help users make choices easier.
+
+This is our presentation video: {{< youtube RUDwS7HB9dU >}}
+
+
+## Endnotes:
+The illustrations comes from the website of Coco (https://www.cocobubbletea.com/menu), pinterest(https://www.pinterest.com), and figma community
+The measure of sweetness is based on the standard of Coco
+The numbers in our software prototype are estimated by ourselves and are not scientifically proved.
+
+
+
 
 
 
