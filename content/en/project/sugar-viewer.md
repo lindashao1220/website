@@ -23,10 +23,17 @@ Have you ever thought that adding ingredients in your milk tea has a great influ
 
 Do you think it is necessary to launch an app to tell the sugar content before you drink milk tea? ![launch an app](../img/app.png)
 
-The interface of most of the bubble tea ordering app is like this, and below is an example in Ele.me👇 
+The interface of most of the bubble tea ordering app is like this, and below is an example in Ele.me. 
 ![interface](../img/interfacenow.png)
 
-but, the question is what does ‘三分糖’ or ‘微糖’ mean? How sweet will the bubble tea be after toppings are selected?
+but, the question is what does ‘三分糖’ or ‘微糖’ mean? How sweet will the bubble tea be after toppings are selected? Therefore, We tried to develop this app for people who enjoy drinking milk tea and also for the bubble-tea stores. Below is our new version trying to help people keep sweetness in their control 👇👇👇
+
+![prototype](../img/prototype1.png)
+the user journey map which is widely used now:
+![prototype](../img/prototype2.png)
+the user journey map designed by our team:
+![prototype](../img/prototype3.png)
+
 
 
 
