@@ -34,6 +34,15 @@ the user journey map which is widely used now:
 the user journey map designed by our team:
 ![prototype](../img/prototype3.png)
 
+Customization Page:
+![Customization Page1](../img/cus1.png)
+![Customization Page2](../img/cus2.png)
+![Customization Page3](../img/cus3.png)
+![Customization Page4](../img/cus4.gif)
+![Customization Page5](../img/cus5.png)
+![Customization Page6](../img/cus6.png)
+![Customization Page7](../img/cus7.png)
+
 
 
 
