@@ -3,11 +3,11 @@ title: "Collage"
 date: 2022-11-17T22:51:49+08:00
 draft: false
 cover:
-    image: ../img/collage.gif
+    image: ../img/ok.gif
     alt: 'collge'
     caption: "project screenshots gif"
 images:
-- img/collage.gif
+- img/ok.gif
 ---
 In the physical world, here and there are never the same. However, this website can be a space of encounter, a plaza where here and there converge. 
 
