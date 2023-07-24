@@ -6,6 +6,7 @@ cover:
     image: ../img/biophila.png
     alt: 'biophila'
     caption: "project screenshots gif"
+author: ["Yanrui Shao, Callie Qiu"]
 images:
 - img/ok.gif
 ---
@@ -27,4 +28,4 @@ The project's culmination was its display at Shanghai's AI Plaza, a prestigious 
 In essence, Biophilia is more than just a project; it's a testament to the power of technology in expressing and amplifying love for the natural world. It's an exploration of the intersection between digital art and environmental consciousness, a journey I hope to continue in future projects.
 
 
-This is our presentation video: {{< youtube If1qh0k7PBo >}}
+This is the final video: {{< youtube If1qh0k7PBo >}}
