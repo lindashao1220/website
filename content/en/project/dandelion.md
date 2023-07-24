@@ -35,7 +35,8 @@ The phone’s interface:
 
 The website interface:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5011134-7f14-4e0c-b27c-85256e3bc07d/Untitled.png)
+![interface](../img/4.png)
+
 
 ## Context and Perspective
 
@@ -44,7 +45,7 @@ The website interface:
 - The trend of  “applicationalise” physical things: There are apps like burning paper, 一炷香, and wooden fish, which are all very popular among Chinese teenagers. All the apps make the physical things display in a virtual way. It is very fun, and at the same time, it also makes things very accessible, since everyone has phones with them all the time.
 - The trend of "applicationalising" physical things has become increasingly popular in recent years. This trend involves creating digital applications or apps that simulate physical objects or experiences. Apps like burning paper, 一炷香, and wooden fish have gained popularity among Chinese teenagers by allowing them to experience traditional practices in a digital format. This trend has several advantages. Firstly, it makes physical things more accessible to people. Almost everyone carries a smartphone with them all the time, so people can experience these things without having to physically be in a certain place or carry a physical object. Additionally, the apps can make these experiences more interactive and immersive by adding features such as sound and visual effects that may not be possible in real life.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d51a69f-70a9-49b6-8b70-fe343222a664/Untitled.png)
+![interface](../img/5.png)
 
 ## Designs and Ideas
 
@@ -52,23 +53,22 @@ I am inspired by the Murmer project, which is an interactive installation, and I
 
 [Murmur installation by Chevalvert, 2Roqs, Polygraphik, Splank, Reims – France](https://retaildesignblog.net/2013/10/01/murmur-installation-by-chevalvert-2roqs-polygraphik-splank-reims-france/)
 
-and then I come up the idea of making a dandelion that can sway around and be blown by the users, and this is my initial sketch🙂
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cfd8b7bd-799f-4e9d-8339-9b16aa2b82ea/Untitled.png)
+and then I come up the idea of making a dandelion that can sway around and be blown by the users.
 
 After that I first tried out different patterns of the petal, and this is my first try:
 
-![Screenshot 2023-04-11 at 15.03.11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a2b53e8-5e7c-458b-a7dd-1b662c0be2ac/Screenshot_2023-04-11_at_15.03.11.png)
+![interface](../img/6.png)
 
 Apparently, it doesn’t look like a petal group at all, so I tried again using function, and then felt pretty satisfied with this petal work.
 
-![Screenshot 2023-04-11 at 20.13.47.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/99cf29b5-0630-4b40-b9e7-e1cf0d8c9465/Screenshot_2023-04-11_at_20.13.47.png)
+![interface](../img/7.png)
+
 
 After that, I started to think what my dandelion as a whole should look like. I initially thought of my project as a flower that can be updated constantly. I envision that when users give different movements, it will result in different patterns of petals appearing. Like this:
 
-![Screenshot 2023-04-13 at 14.36.27.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6251f668-1606-4ca1-9ccc-365e7bd79d3e/Screenshot_2023-04-13_at_14.36.27.png)
+![interface](../img/8.png)
 
-[Screen Recording 2023-04-19 at 00.01.02.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e477be36-26a5-40cf-8f0f-7de159a881be/Screen_Recording_2023-04-19_at_00.01.02.mov)
+{{< youtube gUZjVSDPFaE >}}
 
 But then it looks a bit weird since the users cannot find any connections between their motion input and the visual output. Also, the petals will all disappear after one round of updates. So I decided to tweak the project a little. I start out by drawing this kind of inner petal.
 
