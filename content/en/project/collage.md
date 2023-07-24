@@ -15,7 +15,7 @@ People can get on the website at the same time and take pictures of a part of th
 
 [This version ](https://photocollage.glitch.me/) is for when you get online with friends together.
 
-[This version](https://facecollageforopenproject.glitch.me/) is updated version, and you can enjoy the photo collage yourself 👣
+[This version](https://cutephotocollage.glitch.me/) is updated version, and you can enjoy the photo collage yourself! Don't forget to check out who has also contributed 👣
 
 
 
@@ -120,6 +120,9 @@ ref0.once('value').then((snapshot) => {
 I completely altered the working protocol for the server side. Previously, I utilized [socket.io](http://socket.io/) to group five individuals in a single room, and when someone vacated the room, new participants would take their place.
 
 However, the rule has now changed. I have obtained a list of files in each folder in my database. The new allocation rule is to assign users to the part with the least number of files.
+
+4. API
+I developed an API to retrieve user information, including local time and location, and implemented a database to store this information. This feature enables users to easily access information about previous contributors and enhances the overall user experience.
 
 
 ## User Testing
