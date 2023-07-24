@@ -41,8 +41,8 @@ params:
     subtitle: "✨ Creative Technologist | 👾 Media Artist | 👻 NYU Shanghai Student"
     imageUrl: "img/profile-pic.jpg"
     imageTitle: "Profile Picture"
-    imageWidth: 50
-    # imageHeight: 200
+    imageWidth: 200
+    imageHeight: 200
     buttons:
       - name: Contact Me
         url: "/contact"
