@@ -72,11 +72,12 @@ After that, I started to think what my dandelion as a whole should look like. I 
 
 But then it looks a bit weird since the users cannot find any connections between their motion input and the visual output. Also, the petals will all disappear after one round of updates. So I decided to tweak the project a little. I start out by drawing this kind of inner petal.
 
-[Screen Recording 2023-04-27 at 15.11.29.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b4829b3-192f-4ab9-a1ae-1eb6b9021157/Screen_Recording_2023-04-27_at_15.11.29.mov)
+{{< youtube W4vnW-k0U9g>}}
+
 
 Gradually, I finished drawing the flower, and to make the movement of the flower more natural, I started to add some sin and cos waves into their movement. So it looks like this:
 
-[Screen Recording 2023-04-28 at 14.37.13.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c1f9d359-d7f8-4319-a03c-a0e91c4d1f56/Screen_Recording_2023-04-28_at_14.37.13.mov)
+{{< youtube lnAulnqN59M >}}
 
 After this, I started to add the stem of the flower and hoping it can get moving according to the tilting position of the phone. Also, I decided to make all the petals grow after they disappear, instead of just getting back instantly, and this is the final result:)
 
@@ -90,21 +91,21 @@ Last, I also added some particles to the project to make the color picking/color
 
 I tried out using wechat mini app first, but failed… Since I cannot get the gyroscope value. So I decided to make a website for it.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85e6a2eb-767c-46a2-bf9a-f1711dd55a14/Untitled.png)
+![interface](../img/14.png)
 
 After I tried making a website, there are two major changes that I met. One is to change all the functions into class, and another is to move all the things controlling the petals into the class Petal.
 
 In terms of the first one, when I almost finish the prototype of the project and want to add more movement to each petal, I found it very hard to move on, since back then, my logic is to push all the things into an array and call the function. Therefore, I changed everything into my flower.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/88dfa8d0-b63c-4387-bd05-c0240a7501d0/Untitled.png)
+![interface](../img/15.png)
 
 In terms of the second one, I controlled some of the petal movement outside of the class, and that causes a lot of problems since it would only run once. After Professor Gottfried’s advice and help, it works perfectly because the code is much more organized. I learned a lot, since now I understand all the code blocks have their own function, and I should try to make the most out of the function of it, instead of messing it around.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b32717af-1520-47a9-be66-c764ca8a358f/Untitled.png)
+![interface](../img/16.png)
 
 As for other exploration and changes I make. First, developing the particle system, I know the createVector and applyForce. Second, I try out the gyroscope using the phone. This is the first time I experiment things with a gyroscope and built things on a phone. It is a little bit hard, because I failed to give my phone the certificate to host the local website, so I have to push it to the git hub every time. Third, I have made use of the check if it is a phone device code, to make the project will only work on a phone.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e3b84e20-c5d9-47c4-a84a-478b8744a976/Untitled.png)
+![interface](../img/17.png)
 
 ## User Testing
 
@@ -143,8 +144,6 @@ Secondly, a suggestion was made to modify the behavior of the petals. Specifical
 Lastly, it was suggested that I add an instruction for the blowing function. Currently, users may not be aware that they can blow on the dandelions to activate this feature. By adding clear instructions, users can fully enjoy and engage with the interactive aspect of the project.
 
 After the presentation, I have also made some further changes. So the petals will not fly away in groups of petals, but each petals will have its own threshold. Thanks for Leon’s suggestion and help✨
-
-[RPReplay_Final1683818981.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5707ce52-6f3d-4aa5-8b5c-9e040d542c8d/RPReplay_Final1683818981.mov)
 
 ## Conclusion
 
