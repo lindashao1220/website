@@ -31,7 +31,7 @@ The phone’s interface:
 
 ![interface](../img/2.png)
 
-[RPReplay_Final1683818981.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5707ce52-6f3d-4aa5-8b5c-9e040d542c8d/RPReplay_Final1683818981.mov)
+This is the final result: {{< youtube iRfRXjzZsZA >}}
 
 The website interface:
 
@@ -79,7 +79,7 @@ Gradually, I finished drawing the flower, and to make the movement of the flower
 
 {{< youtube lnAulnqN59M >}}
 
-After this, I started to add the stem of the flower and hoping it can get moving according to the tilting position of the phone. Also, I decided to make all the petals grow after they disappear, instead of just getting back instantly, and this is the final result:)
+After this, I started to add the stem of the flower and hoping it can get moving according to the tilting position of the phone. Also, I decided to make all the petals grow after they disappear, instead of just getting back instantly, and this is the final result
 
 [Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7cde2aa4-2749-4349-bc9a-7310bf3e124b/Untitled.qt)
 
