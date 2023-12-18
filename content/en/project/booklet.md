@@ -8,6 +8,8 @@ cover:
 ---
 [The live booklet](https://heyzine.com/flip-book/3ce7f91339.html) You can explore the little booklet here online!
 
+
+Frequence of drinking milk tea: ![Frequence of drinking milk tea](../img/frequency.png)
 ![interface](../img/g1.png)
 ![interface](../img/g2.png)
 ![interface](../img/g3.png)
