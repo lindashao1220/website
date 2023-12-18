@@ -3,8 +3,8 @@ title: "Booklet for Graphic Design"
 date: 2023-12-17T22:51:49+08:00
 draft: false
 cover:
-    image: ../img/ok.gif
-    alt: 'collge'
+    image: ../img/gcover.png
+    alt: 'booklet'
     caption: "project screenshots gif"
 ---
 [The live booklet](https://heyzine.com/flip-book/3ce7f91339.html) You can explore the little booklet here online!
