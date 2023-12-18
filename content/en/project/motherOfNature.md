@@ -7,8 +7,6 @@ cover:
     alt: 'Daughter of Nature'
     caption: "Daughter of Nature"
 author: ["Yanrui Shao, Xiaozao Wang"]
-images:
-- img/nature.png
 ---
 
 The stage becomes a symbolic canvas in this virtual body performance, reflecting the interconnectedness between human actions and the environment. The performer, embodying an avatar, takes the audience on a journey through the consequences of deforestation.
